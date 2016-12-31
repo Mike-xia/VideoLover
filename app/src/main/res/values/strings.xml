@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">androidLocalVideoPlayer</string>
+    <string name="app_name">终于成型了</string>
     <string name="action_settings">Settings</string>
     <string name="text">读取本地视频</string>
     <string name="tip_reach_top">已经到达列表顶端，现在播放最后一部</string>

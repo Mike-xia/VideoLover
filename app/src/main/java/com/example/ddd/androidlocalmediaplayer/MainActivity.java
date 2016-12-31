@@ -60,7 +60,6 @@ public class MainActivity extends AppCompatActivity {
 
         list = (ListView) findViewById(R.id.listView1);
 
-        //findViews();
         registerListeners();
         initVideoList();
         initListView();
@@ -82,10 +81,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
-    /*private void findViews(){
-        list=(ListView)findViewById(listView1);
-    }*/
     private void registerListeners() {
 
     }
